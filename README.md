@@ -1,4 +1,7 @@
 # coffee_shop
+<h2>Hosted link</h2>
+https://jaitensahu.github.io/coffee_shop/
+<br><br>
 
 ![coffee header](https://github.com/jaitensahu/coffee_shop/assets/127736781/efbfd82b-e2b6-4eab-95e0-8cba6f91fd0d)
 <br>
